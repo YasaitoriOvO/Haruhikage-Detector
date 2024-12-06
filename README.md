@@ -1,2 +1,3 @@
-# Haruhikage-Detector
-A fun thing.
+# 春日影检测器
+
+为什么要演奏春日影？！
